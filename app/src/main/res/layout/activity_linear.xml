@@ -86,7 +86,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginTop="20dp"
             android:backgroundTint="@color/Ijo_Muda"
-            android:text="<"
+            android:text="@string/Character"
             android:textSize="28dp"
             app:srcCompat="@drawable/ic_baseline_arrow_back_ios_24" />
 
@@ -103,20 +103,6 @@
             android:textAlignment="center"
             android:textSize="30dp" />
 
-        <Button
-            android:id="@+id/imageView14"
-            android:layout_width="55dp"
-            android:layout_height="74dp"
-            android:layout_gravity="top|right"
-            android:layout_marginright="20dp"
-            android:layout_marginTop="20dp"
-            android:text="<"
-            android:backgroundTint="@color/Ijo_Muda"
-            android:textSize="28dp"
-            android:layout_marginRight="20dp"
-            android:layout_weight="1"
-            android:rotationY="180"
-            app:srcCompat="@drawable/ic_baseline_arrow_back_ios_24" />
 
     </LinearLayout>
 
