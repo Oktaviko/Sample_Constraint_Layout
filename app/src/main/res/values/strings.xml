@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="Okta">Oktaviko</string>
+    <string name="HP">08294728389</string>
+    <string name="Submit">Submit</string>
+    <string name="Bumi">Earth</string>
+    <string name="Framebtn">Learn About Earth</string>
+    <string name="Select">Select Your Engine</string>
+    <string name="Nama">Nama : </string>
+    <string name="Phone">Phone : </string>
+    <string name="Address">Address : </string>
+    <string name="eNama">Masukkan nama anda</string>
+    <string name="ePhone">Masukkan No Hp</string>
+    <string name="eAddress">Masukkan Alamat</string>
+    <string name="SEngine">Search Engine</string>
+    <string name="Pricelist">Pricelist</string>
+    <string name="SubmitYe">Submit Your Engine</string>
+    <string name="Right">Right</string>
+    <string name="Left">Left</string>
+</resources>
